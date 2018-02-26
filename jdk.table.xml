@@ -1,0 +1,26 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 3.6.4 (F:\Program Files\Python\python.exe)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.4" />
+      <homePath value="F:\Program Files\Python\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://F:/Program Files/Python/DLLs" />
+            <root type="simple" url="file://F:/Program Files/Python/Lib" />
+            <root type="simple" url="file://F:/Program Files/Python" />
+            <root type="simple" url="file://F:/Program Files/Python/Lib/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.1/system/python_stubs/661025828" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>
